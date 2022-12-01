@@ -1,5 +1,4 @@
 // ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
 import 'package:mentalhealthapp/util/emoticon.dart';
 import 'package:mentalhealthapp/util/exercises.dart';
@@ -37,7 +36,7 @@ class _HomePageState extends State<HomePage> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
                           Text(
-                            'Hi, Marco!',
+                            'Hi, People!',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 24,
@@ -198,7 +197,7 @@ class _HomePageState extends State<HomePage> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: const [
                           Text(
-                            'Exercises',
+                            'Location',
                             style: TextStyle(
                                 fontWeight: FontWeight.bold, fontSize: 20),
                           ),
