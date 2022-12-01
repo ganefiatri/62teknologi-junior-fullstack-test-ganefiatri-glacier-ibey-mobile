@@ -1,4 +1,4 @@
-# mentalhealthapp
+# 62teknologi test Restaurant List
 
 A new Flutter project.
 
